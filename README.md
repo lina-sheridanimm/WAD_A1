@@ -1,4 +1,4 @@
-<h1>**WEB APPLICATION DEVELOPMENT A1 PROGRAMMING BASICS**</h1>
+<h1>WEB APPLICATION DEVELOPMENT A1 PROGRAMMING BASICS</h1>
 
 **Part 1:**
 Create a data structure that describes a "hospital". It has a name and contains 3 "patient" records. Each "patient" has an id, fullName, dateOfBirth, and multiple "symptoms". Each symptom in a String.
