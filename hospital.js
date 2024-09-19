@@ -16,7 +16,8 @@ const hospital =
             dateOfBirth: "1999-07-18",
             symptoms: [
                 "dizziness",
-                "headache"
+                "headache",
+                "nausea"
             ]
         },
         {
