@@ -6,13 +6,13 @@ Create a data structure that describes a "hospital". It has a name and contains 
 Part 2:
 Create a function named "showPatients" that receives a hospital data structure and returns the following as a string:
 
-<h1>Hospital Name</h1>
-<h2>Patient full name, date of birth </h2>
-<ul>
-  <li>symptom</li>
-  <li>symptom</li>
-  <li>symptom</li>
-</ul>
+// <h1>Hospital Name</h1>
+// <h2>Patient full name, date of birth </h2>
+// <ul>
+//  <li>symptom</li>
+//  <li>symptom</li>
+//  <li>symptom</li>
+// </ul>
 Repeat the h2, ul, and li for each patient.
 
 Execute that function with the data structure created in Part 1 then console.log the return value to the document.
