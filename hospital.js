@@ -16,7 +16,8 @@ const hospital =
             dateOfBirth: "1999-07-18",
             symptoms: [
                 "dizziness",
-                "headache"
+                "headache",
+                "nausea"
             ]
         },
         {
@@ -24,7 +25,7 @@ const hospital =
             fullName: "Anthony Baltazar",
             dateOfBirth: "1999-09-05",
             symptoms: [
-                "pain in calf",
+                "tinnitus",
                 "knee pain",
                 "swelling"
             ]
