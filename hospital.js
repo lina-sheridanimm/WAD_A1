@@ -24,7 +24,7 @@ const hospital =
             fullName: "Anthony Baltazar",
             dateOfBirth: "1999-09-05",
             symptoms: [
-                "pain in calf",
+                "tinnitus",
                 "knee pain",
                 "swelling"
             ]
