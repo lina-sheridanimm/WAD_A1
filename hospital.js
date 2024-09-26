@@ -72,16 +72,14 @@ console.log(showPatients(hospital));
 
 // PART 3: getPatient function
 
-function getPatient(hospital){
+function getPatient(patientArray){
 
-    let patients = hospital.patient;
     let patientIDs = [];
-
-    patients.forEach((p) => {
-      patientIDs.push(p.patientID);
+    patientArray.forEach((e) => {
+      patientIDs.push(e.patientID);
     })
 
-    return patientIDs[Math.floor(Math.random()*patients.length)]
+    return patientIDs[Math.floor(Math.random()*patientIDs.length)]
 };
 
-console.log(getPatient(hospital));
+console.log(getPatient(hospital.patient));
